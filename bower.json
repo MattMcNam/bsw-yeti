@@ -7,7 +7,7 @@
   ],
   "description": "Temporary package to provide Bootswatch Yeti via Bower for the NodeCG project",
   "main": [
-    "css/bootstrap.css"
+    "css/bootstrap.min.css"
   ],
   "dependencies": {
     "bootstrap": "3.2.0"
