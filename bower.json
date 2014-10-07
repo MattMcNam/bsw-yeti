@@ -1,0 +1,23 @@
+{
+  "name": "bsw-yeti",
+  "version": "3.2.0",
+  "homepage": "https://github.com/MattMcNam/bsw-yeti",
+  "authors": [
+    "Matthew McNamara <matt@mattmcn.com>"
+  ],
+  "description": "Temporary package to provide Bootswatch Yeti via Bower for the NodeCG project",
+  "main": [
+    "css/bootstrap.css"
+  ],
+  "dependencies": {
+    "bootstrap": "3.2.0"
+  },
+  "keywords": [
+    "bootstwatch",
+    "yeti"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
